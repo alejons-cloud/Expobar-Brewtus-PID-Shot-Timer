@@ -11,3 +11,5 @@ One major difference between the original Expobar PID and the newer units is the
 
 You also need the Gicar Optoboard and Opto/PID cable.
 You can purchase the Opto/lever wires but those could also be made custom. Just make sure the wire insulation can handle high temperatures.
+
+This was done to an Expobar Brewtus, but will work for any other espresso machine with a mains brew switch and a Gicar PID unit
